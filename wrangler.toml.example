@@ -1,0 +1,5 @@
+name = "teapot"
+type = "webpack"
+workers_dev = false
+zone_id = ""
+route = ""
